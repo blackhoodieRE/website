@@ -1,9 +1,15 @@
 ---
-title: "About"
-date: 2020-01-31T21:14:50+01:00
-menu: "main"
+title: About
+slug: about
+description: blackhoodie is a reverse engineering workshop
+date: 2017-11-23T23:42:05+01:00
+type: page
+draft: false
+menu:
+  main:
+    name: About
+    weight: 999
 ---
-
 
 Blackhoodie is a free, women only reverse engineering workshop.
 
@@ -48,4 +54,3 @@ They serve on conference review boards, including BlackHat our industry's prime 
 Why so successful you wonder? There are plenty of women out there who are ready to kill, but aren't sure where to begin. BlackHoodie offers an easy start with a complex topic, packaged up with a courage boost and a neat network of contacts in the industry. This package, paired with the incomparable drive of a chronically underestimated minority, gives the ladies superpowers.
 
 -- [Mari0n](https://twitter.com/pinkflawd)
-
