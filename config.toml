@@ -1,0 +1,15 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Blackhoodie"
+
+theme = "amperage"
+
+DefaultContentLanguage = "en"
+pygmentsUseClasses = true
+
+
+
+
+socialProfiles = ["https://twitter.com/example"]
+
+pagine = 1
